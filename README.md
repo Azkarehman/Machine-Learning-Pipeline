@@ -20,3 +20,14 @@ The dataset consists of following five features of 200 customers:
 - Annual Income (k$): Annual Income of the customer
 
 - Spending Score (1-100): Score assigned by the mall based on customer behavior and spending nature.
+
+
+## Results derived from Visualizations:
+- The data has nearly gaussian distribution.
+- Customers with low annual income have relatively low spending scores.
+- Customers with fair enough income spend the most.
+- Females spending score is more than males but the difference is not too significant.
+- People of smaller ages spend less.
+- Average age of cutomers is between 30 to 40 years.
+
+--- More detailed results are stated in Data Visualizations notebook.
