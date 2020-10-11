@@ -8,6 +8,8 @@ Usually mall owners issue a card to customers which is used to track their purch
  
 ## Dataset
 The dataset is aquired from kaggle and the link is given below :
+
+
 https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python
 
 The dataset consists of following five features of 200 customers:
@@ -31,3 +33,4 @@ The dataset consists of following five features of 200 customers:
 - Average age of cutomers is between 30 to 40 years.
 
 --- More detailed results are stated in Data Visualizations notebook.
+https://github.com/Azkarehman/Mall-Customer-Segmentation-using-ML/blob/master/Visualizing%20and%20preprocessing.ipynb
