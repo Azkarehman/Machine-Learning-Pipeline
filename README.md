@@ -7,10 +7,10 @@ Using Machine Learning algorithms makes it easy to segment your customers accord
 Usually mall owners issue a card to customers which is used to track their purchase history.
  
 ## Dataset
-The dataset is aquired from kaggle. Te link for dataset is:
+The dataset is aquired from kaggle and the link is given below :
 https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python
 
-The dataset consists of five features of 200 customers. These features are described below:
+The dataset consists of following five features of 200 customers:
 - CustomerID: Unique ID assigned to the customer
 
 - Gender: Gender of the customer
